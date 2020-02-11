@@ -23,4 +23,4 @@ Odpowiedzi na każde pytanie umieść w odpowiednim folderze repozytorium. Udost
 
 ## Powodzenia
 
-Damian
+Damian i Mateusz
